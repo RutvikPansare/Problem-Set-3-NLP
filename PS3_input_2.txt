@@ -1,0 +1,21 @@
+S -> NP VP
+S -> NP NP
+NP -> IN NP
+NP -> IN P
+NP -> N NP
+NP -> CO Noun
+NP -> Vp PP
+VP -> V PP
+VP -> Vp PP
+PP -> V NP
+NP -> ADJp Noun
+ADJp -> ADJ ADJ
+Noun -> CO Noun
+DET -> the A
+Noun -> tis i heart sleeve
+V -> will wear die
+Vp -> hath
+P -> my
+ADJ -> not long
+IN -> after upon
+CO -> but

@@ -1,0 +1,21 @@
+S -> NP VP
+S -> NP NP
+NP -> IN NP
+NP -> IN P
+NP -> N NP
+NP -> CO Noun
+NP -> Vp PP
+VP -> V PP
+VP -> Vp PP
+PP -> V NP
+NP -> ADJp Noun
+ADJp -> ADJ ADJ
+Noun -> CO Noun
+DET -> the A
+Noun -> car light house
+V -> stopped eaten
+Vp -> hath
+P -> at out
+ADJ -> small-sized self-driving
+IN -> He me of
+CO -> and

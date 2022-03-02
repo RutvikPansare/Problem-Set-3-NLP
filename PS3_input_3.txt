@@ -1,0 +1,21 @@
+S -> NP VP
+S -> NP NP
+NP -> IN NP
+NP -> IN P
+NP -> N NP
+NP -> CO Noun
+NP -> Vp PP
+VP -> V PP
+VP -> Vp PP
+PP -> V NP
+NP -> ADJp Noun
+ADJp -> ADJ ADJ
+Noun -> CO Noun
+DET -> the A
+Noun -> I You
+V -> want get know
+Vp ->
+P -> him
+ADJ -> smoodle pinkered
+IN -> that You
+CO -> and to

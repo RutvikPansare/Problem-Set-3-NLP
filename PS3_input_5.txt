@@ -1,0 +1,12 @@
+S -> NP VP
+NP -> DET NP
+NP -> DET Noun
+VP -> V PP
+PP -> P NP
+NP -> ADJp Noun
+ADJp -> ADJ ADJ
+DET -> the A
+Noun -> car light
+V -> stopped
+P -> at
+ADJ -> small-sized self-driving

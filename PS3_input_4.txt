@@ -1,0 +1,17 @@
+S -> NP VP
+NP -> P NP
+NP -> N NP
+NP -> IN NP
+NP -> V NP
+VP -> IN NP
+NP -> DET Noun
+ADJp -> ADJ ADJ
+Noun -> CO Noun
+DET -> the
+Noun -> door lamp sky
+V -> sat
+Vp ->
+P -> through in My
+ADJ -> smoodle pinkered
+IN -> that You
+CO ->
